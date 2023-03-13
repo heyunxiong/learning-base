@@ -1,3 +1,11 @@
-# study-base
+# learning-base
 
-study demo/sample code.
+> coding playground
+> 
+> code snippet
+> 
+> demo
+> 
+
+💪📚💻
+
